@@ -1,5 +1,5 @@
 # Ecommerce-web-site
-## A responsive and multi-page professional Ecommerce Website Project where I learned the fundamentals of web design and modern CSS, including flexbox and CSS grid for layouts and techniques to create stunning designs and effects.
+### A responsive and multi-page professional Ecommerce Website Project where I learned the fundamentals of web design and modern CSS, including flexbox and CSS grid for layouts and techniques to create stunning designs and effects.
 
 ## Snapshots of the Website
 ![image](https://github.com/AshishBhosle17/Ecommerce-web-site/assets/140106733/1ad51292-4a92-46d6-b9c1-5d4eaee538df)
